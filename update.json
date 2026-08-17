@@ -1,7 +1,7 @@
 {
-    "version":  "2.5.0",
-    "installerUrl":  "https://github.com/cclase/FileIQ-Releases/releases/download/v2.5.0/FileIQ-Setup.exe",
-    "sha256":  "5874518D06A1126A8792B9595CA36CF05C48BA5B12CF9B0D2F0D76E3C00775AC",
-    "releaseNotesUrl":  "https://github.com/cclase/FileIQ-Releases/releases/tag/v2.5.0",
-    "publishedAtUtc":  "2026-08-17T15:28:48.2793988Z"
+    "version":  "2.5.1",
+    "installerUrl":  "https://raw.githubusercontent.com/cclase/FileIQ-Releases/main/FileIQ-Setup.exe",
+    "sha256":  "851449268931D655E79940CE23E499C3F9FA255DA447AC749ACD2C8050C46576",
+    "releaseNotesUrl":  "https://github.com/cclase/FileIQ/commit/7401b98",
+    "publishedAtUtc":  "2026-08-17T17:32:53.1058593+00:00"
 }
